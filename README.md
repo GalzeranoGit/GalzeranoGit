@@ -10,4 +10,4 @@ I’m actively:
 - Practicing **CI/CD**, **containerization (Docker)**, and **cloud deployments** for real apps.
 - Learning via projects instead of just tutorials.
 
-Currently: [@FamilyBusiness OS] · Open to collaborating or connecting galzeranogas@gmail.com / https://www.linkedin.com/in/gaston-galzerano/
+Currently: [@Lore OS] · Open to collaborating or connecting galzeranogas@gmail.com / https://www.linkedin.com/in/gaston-galzerano/
